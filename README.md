@@ -5,5 +5,5 @@ Generates a prototype Snake and Ladder, Single Machine Multi Player, with 1-9 x 
 
 This is a Demonstration Prototype.
 
-Enhanced around a multiplayer core provided here by a motivated dev. ->
-https://github.com/skibrit/snake-ladder
+Enhanced around a multiplayer core provided here by a motivated dev. -> https://www.youtube.com/watch?v=WvJ4_xAxw0U
+
